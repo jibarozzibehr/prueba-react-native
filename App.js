@@ -12,8 +12,8 @@ export default function App() {
         title="Hola"
         caption="Me aburro"
         subtitle="No tengo sueño"
-        image={{ uri: 'https://images.clarin.com/2019/04/03/vista-del-fitz-roy___TfhNv3KNZ_0x750__1.jpg', }}
-        logo={{ uri: 'https://reactnative.dev/img/tiny_logo.png', }}
+        image={{ uri: 'https://images.clarin.com/2019/04/03/vista-del-fitz-roy___TfhNv3KNZ_0x750__1.jpg' }}
+        logo={{ uri: 'https://reactnative.dev/img/tiny_logo.png' }}
       />
     </View>
   );
